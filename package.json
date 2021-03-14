@@ -1,8 +1,9 @@
 {
-  "name": "opensea-whitelabel",
-  "author": "Alex Atallah <alex.atallah@opensea.io>",
+  "name": "van-sadler",
+  "author": "David Knight <d@ve.style>",
   "version": "1.0.0",
-  "description": "An example app showing how to easily white-label OpenSea and create your own NFT marketplace",
+  "description": "Van Sadler's NFT marketplace",
+  "homepage" : "https://vansadler.com",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
